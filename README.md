@@ -1,8 +1,6 @@
 ### Hi there, I'm Darlan 👋
 
 - 🔭 I’m currently working on backend applications
-- 🌱 I’m currently learning Kotlin and Kafka
-- 😄 Pronouns: he/him
 
 
 <div style="display: inline_block"><br>
