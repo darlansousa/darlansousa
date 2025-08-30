@@ -1,5 +1,30 @@
 ### Hi there, I'm Darlan 👋
 
+💻 Desenvolvedor **Java | Kotlin | Backend**  
+🌍 Atualmente na Austrália, trabalhei nas empresas **PicPay, Telefônica e Claro/NET**.  
+
+---
+
+## 🚀 Sobre mim  
+Desenvolvedor Back-end com experiência em Java, Kotlin, JavaScript, APIs REST, arquitetura de microsserviços em Núvem. Apaixonado pelo desenvolvimento de aplicações performáticas e escaláveis. Também possui experiência em projetos gerenciados por Metodologias Ágeis.
+
+---
+
+## 📌 Projetos em Destaque  
+
+🔹 [**Classificador ReclameAqui**](https://github.com/darlankenobi/reclameaqui-ml)  
+Machine Learning para classificar reclamações usando **SVM + SGDClassifier**.  
+*Python | NLP | scikit-learn*  
+
+🔹 [**Profile API & Page**](https://github.com/darlankenobi/profile-api)  
+API + Frontend React para meu portfólio multilíngue (PT, EN, JP).  
+*Flask | React | i18n*  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
@@ -9,4 +34,21 @@
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
 </div>
-  
+
+---
+
+## 📊 Estatísticas  
+
+![Darlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlankenobi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlankenobi&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Onde me encontrar  
+
+📫 [LinkedIn](https://www.linkedin.com/in/darlansouza/)  
+🌎 [Portfólio](https://darlankenobi.github.io/profile-page)  
+🔗 [Website](https://www.darlansilva.com.br/pt)  
+
+---
+
