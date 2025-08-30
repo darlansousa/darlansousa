@@ -35,15 +35,6 @@ API + Frontend React para meu portfólio multilíngue (PT, EN, JP).
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
 </div>
 
----
-
-## 📊 Estatísticas  
-
-![Darlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darlankenobi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlankenobi&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Onde me encontrar  
 
 📫 [LinkedIn](https://www.linkedin.com/in/darlansouza/)  
